@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     "/Users/liuchengjun/Documents/OOP實習/0521/hw1"
+relocations:     []
+...
